@@ -9,29 +9,7 @@
 
 4. Every Statement 
 
-Node/Test Case | Empty list/NULL | #, #, #| #, 0, #, 0, #, #, 0, 0, 0
-
-A	                      *	           *          	*
-B	*		
-C		*	*
-D		*	
-E			*
-F			*
-G			*
-I			*
-J			*
-K			*
-L			*
-M			*
-N			*
-O			*
-P			*
-Q			*
-R			*
-S			*
-H			*
-T			*
-
+![Every statement table](https://user-images.githubusercontent.com/71216158/171940407-65d60def-f363-4a4f-93c3-3f6aff2c8d3f.jpg)
 
 
 5.
